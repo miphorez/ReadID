@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.09.25 15:45:19.078.pas,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Unit1.pas=C:\Source\ReadID\ReadID.pas</Transaction>
+    <Transaction>2009.09.25 15:45:19.078.dfm,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Source\ReadID\ReadID.dfm</Transaction>
+    <Transaction>2009.09.25 15:48:19.390.pas,C:\Source\ReadID\ReadID.pas=C:\Source\ReadID\GetKEyID.pas</Transaction>
+    <Transaction>2009.09.25 15:48:19.390.dfm,C:\Source\ReadID\ReadID.dfm=C:\Source\ReadID\GetKEyID.dfm</Transaction>
+    <Transaction>2009.09.25 15:48:19.406.pas,C:\Source\ReadID\GetKEyID.pas=C:\Source\ReadID\ReadID.pas</Transaction>
+    <Transaction>2009.09.25 15:48:19.406.dfm,C:\Source\ReadID\GetKEyID.dfm=C:\Source\ReadID\ReadID.dfm</Transaction>
+    <Transaction>2009.09.25 15:49:07.953.dproj,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\Project1.dproj=D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\ReadKeyID.dproj</Transaction>
+    <Transaction>2009.09.25 15:49:38.078.dproj,D:\Documents and Settings\Dmitry\Мои документы\RAD Studio\Projects\ReadKeyID.dproj=C:\Source\ReadID\ReadKeyID.dproj</Transaction>
+    <Transaction>2009.09.25 15:57:18.906.pas,C:\Source\ReadID\ReadID.pas=C:\Source\ReadID\Read_ID.pas</Transaction>
+    <Transaction>2009.09.25 15:57:18.906.dfm,C:\Source\ReadID\ReadID.dfm=C:\Source\ReadID\Read_ID.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
